@@ -1,0 +1,44 @@
+.container{
+    background-color: white;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.button{
+    height: 70px;
+    width: 70px;
+    background-color: red;
+
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+.main{
+    align-items: center;
+    justify-content: center;
+}
+#grey{
+    background-color: grey;
+}
+#pink{
+    background-color: pink;
+}
+#aqua{
+    background-color: aqua;
+}
+#black{
+    background-color: black;
+}
